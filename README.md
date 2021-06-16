@@ -15,3 +15,7 @@ creacion de botones y texto de la seccion de Hero  y descomentar partes de  la a
 # Project Section
 
 Se crea la seccion donde van las ventanas para los proyectos y demas cosas que lo acompañan.
+
+# Technologies Section
+
+Creando  la seccion de tecnologia
