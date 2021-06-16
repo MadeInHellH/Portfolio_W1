@@ -22,3 +22,5 @@ Parece que se me rompe cuando pongo modo movil con los titulos(revisar eso)
 Creando  la seccion de tecnologia
 
 # Timeline Section
+
+# Accomplishments and Footen Section
